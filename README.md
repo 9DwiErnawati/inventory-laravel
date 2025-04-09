@@ -10,7 +10,7 @@ A simple inventory management web app built with Laravel.
 - User-friendly interface
 
 ## 🔧 Tech Stack
-- Laravel 10
+- Laravel 12.7.2
 - Blade Template
 - Tailwind CSS
 - MySQL
